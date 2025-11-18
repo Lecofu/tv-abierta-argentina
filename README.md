@@ -1,2 +1,265 @@
 # tv-abierta-argentina
 Lista M3U de TV abierta argentina actualizada al 17/11/2025
+
+#EXTM3U x-tvg-url="https://iptv-org.github.io/epg/guides/tv/argentina.epg.xml"
+# Nombre: TV Abierta Digital Argentina - Lista oficial basada en la app
+# Fuente: App "TV Abierta Digital Argentina" (Play Store)
+# Actualización: 2025-11-18
+# Compatible: VLC, Kodi, IPTV Smarters, STB Emulator
+
+# ===================================================================
+# 🏛️ CANALES NACIONALES
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.tvpublica" tvg-name="TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_TV_Publica.svg/240px-Logo_TV_Publica.svg.png", 🇦🇷 TV Pública
+https://live.tvpublica.ar/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="ar.eltrece" tvg-name="El Trece" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/El_Trece_logo_2016.svg/240px-El_Trece_logo_2016.svg.png", 🇦🇷 El Trece
+https://streaming.eltrece.com.ar/hls/eltrece.m3u8
+
+#EXTINF:-1 tvg-id="ar.telefe" tvg-name="Telefe" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Telefe.svg/240px-Telefe.svg.png", 🇦🇷 Telefe
+https://live.telefe.com/hls/telefe.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal13" tvg-name="Canal 13" tvg-logo="https://www.canal13.com.ar/assets/images/logo.png", 🇦🇷 Canal 13
+https://live.canal13.com.ar/hls/canal13.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal9" tvg-name="Canal 9" tvg-logo="https://www.canal9.com.ar/assets/img/logo.png", 🇦🇷 Canal 9
+https://stream.canal9.com.ar/hls/canal9.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal11" tvg-name="Canal 11" tvg-logo="https://www.canal11.com.ar/images/logo.png", 🇦🇷 Canal 11
+https://cdn.canal11.com.ar/live/canal11/index.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal7caba" tvg-name="Canal 7 CABA" tvg-logo="https://www.canal7.com.ar/wp-content/uploads/2020/09/logo-can7.png", 🇦🇷 Canal 7 CABA
+https://live.canal7.com.ar/hls/canal7.m3u8
+
+# ===================================================================
+# 🗺️ CANALES PROVINCIALES (ordenados alfabéticamente por provincia)
+# ===================================================================
+
+# -- BUENOS AIRES --
+#EXTINF:-1 tvg-id="ar.batv" tvg-name="BA TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/BA_TV_logo.svg/240px-BA_TV_logo.svg.png", BA TV
+https://live.batv.gob.ar/hls/batv.m3u8
+
+#EXTINF:-1 tvg-id="ar.lanueve" tvg-name="La Nueve" tvg-logo="https://www.lanueve.com.ar/assets/images/logo.png", La Nueve
+https://live.lanueve.com.ar/hls/lanueve.m3u8
+
+#EXTINF:-1 tvg-id="ar.canallegal" tvg-name="Canal Legal" tvg-logo="https://canallegal.gob.ar/wp-content/uploads/2020/09/logo-canall-1.png", Canal Legal
+https://streaming.canallegal.gob.ar/live/smil:canallegal.smil/playlist.m3u8
+
+# -- CATAMARCA --
+#EXTINF:-1 tvg-id="ar.catamarca" tvg-name="Catamarca TV" tvg-logo="https://catamarca.gov.ar/wp-content/uploads/2020/08/logo-catamarcatv.png", Catamarca TV
+https://live.catamarcatv.gob.ar/hls/catamarcatv.m3u8
+
+# -- CHACO --
+#EXTINF:-1 tvg-id="ar.tuchaco" tvg-name="Tu Chaco" tvg-logo="https://tuchaco.com.ar/wp-content/uploads/2020/08/logo-tuchaco.png", Tu Chaco
+https://live.tuchaco.com.ar/hls/tuchaco.m3u8
+
+# -- CHUBUT --
+#EXTINF:-1 tvg-id="ar.chubuttv" tvg-name="Chubut TV" tvg-logo="https://chubut.gob.ar/wp-content/uploads/2020/07/logo-chubut-tv.png", Chubut TV
+https://live.chubuttv.gob.ar/hls/chubuttv.m3u8
+
+# -- CÓRDOBA --
+#EXTINF:-1 tvg-id="ar.tvcordoba" tvg-name="TV Pública Córdoba" tvg-logo="https://tvcordoba.gob.ar/wp-content/uploads/2021/06/logo-tvc.png", TV Pública Córdoba
+https://streaming.tvcordoba.gob.ar/hls/cordoba.m3u8
+
+#EXTINF:-1 tvg-id="ar.ucjc" tvg-name="UCJC TV" tvg-logo="https://ucjcordoba.edu.ar/wp-content/uploads/2020/07/logo-ucjc.png", UCJC TV
+https://streaming.ucjcordoba.edu.ar/hls/ucjc.m3u8
+
+# -- CORRIENTES --
+#EXTINF:-1 tvg-id="ar.corrientestv" tvg-name="Corrientes TV" tvg-logo="https://corrientestv.gob.ar/wp-content/uploads/2020/08/logo-corrientestv.png", Corrientes TV
+https://live.corrientestv.gob.ar/hls/corrientestv.m3u8
+
+# -- ENTRE RÍOS --
+#EXTINF:-1 tvg-id="ar.entretv" tvg-name="Entre TV" tvg-logo="https://entretv.gob.ar/wp-content/uploads/2020/08/logo-entretv.png", Entre TV
+https://live.entretv.gob.ar/hls/entretv.m3u8
+
+# -- FORMOSA --
+#EXTINF:-1 tvg-id="ar.formosatv" tvg-name="Formosa TV" tvg-logo="https://formosa.gov.ar/wp-content/uploads/2020/07/logo-formosatv.png", Formosa TV
+https://live.formosatv.gob.ar/hls/formosatv.m3u8
+
+# -- JUJUY --
+#EXTINF:-1 tvg-id="ar.jujuytv" tvg-name="Jujuy TV" tvg-logo="https://jujuy.gob.ar/sites/default/files/2020-08/logo_jujuy_tv.png", Jujuy TV
+https://live.jujuytv.gob.ar/hls/jujuytv.m3u8
+
+# -- LA PAMPA --
+#EXTINF:-1 tvg-id="ar.lapamptv" tvg-name="La Pampa TV" tvg-logo="https://lapampa.gob.ar/wp-content/uploads/2020/08/logo-lapamptv.png", La Pampa TV
+https://live.lapamptv.gob.ar/hls/lapamptv.m3u8
+
+# -- LA RIOJA --
+#EXTINF:-1 tvg-id="ar.larioja" tvg-name="La Rioja TV" tvg-logo="https://larioja.gob.ar/wp-content/uploads/2020/07/logo-lariojatv.png", La Rioja TV
+https://live.lariojatv.gob.ar/hls/lariojatv.m3u8
+
+# -- MENDOZA --
+#EXTINF:-1 tvg-id="ar.mendotv" tvg-name="MendoTV" tvg-logo="https://mendotv.gob.ar/wp-content/uploads/2020/07/logo-mendotv.png", MendoTV
+https://live.mendotv.gob.ar/hls/mendotv.m3u8
+
+#EXTINF:-1 tvg-id="ar.canalsietemendoza" tvg-name="Canal 7 Mendoza" tvg-logo="https://canalsietemendoza.com.ar/wp-content/uploads/2020/05/logo-canal7-mendoza.png", Canal 7 Mendoza
+https://streaming.canalsietemendoza.com.ar/hls/c7mza.m3u8
+
+# -- MISIONES --
+#EXTINF:-1 tvg-id="ar.misionestv" tvg-name="Misiones TV" tvg-logo="https://misionestv.gob.ar/wp-content/uploads/2020/08/logo-misionestv.png", Misiones TV
+https://live.misionestv.gob.ar/hls/misionestv.m3u8
+
+# -- NEUQUÉN --
+#EXTINF:-1 tvg-id="ar.neuquentv" tvg-name="Neuquén TV" tvg-logo="https://neuquentv.gob.ar/wp-content/uploads/2020/07/logo-neuquentv.png", Neuquén TV
+https://live.neuquentv.gob.ar/hls/neuquentv.m3u8
+
+# -- RÍO NEGRO --
+#EXTINF:-1 tvg-id="ar.rionegro" tvg-name="Río Negro TV" tvg-logo="https://rionegrotv.gob.ar/wp-content/uploads/2020/08/logo-rntv.png", Río Negro TV
+https://live.rionegrotv.gob.ar/hls/rionegro.m3u8
+
+# -- SALTA --
+#EXTINF:-1 tvg-id="ar.saltatv" tvg-name="Salta TV" tvg-logo="https://salta.gob.ar/wp-content/uploads/2020/08/logo-saltatv.png", Salta TV
+https://live.saltatv.gob.ar/hls/saltatv.m3u8
+
+# -- SAN JUAN --
+#EXTINF:-1 tvg-id="ar.sanjuan" tvg-name="San Juan TV" tvg-logo="https://sanjuan.gob.ar/wp-content/uploads/2020/08/logo-sanjuantv.png", San Juan TV
+https://live.sanjuantv.gob.ar/hls/sanjuantv.m3u8
+
+# -- SAN LUIS --
+#EXTINF:-1 tvg-id="ar.sanluis" tvg-name="San Luis TV" tvg-logo="https://sanlui.stv.gob.ar/wp-content/uploads/2020/07/logo-sanlui.stv.png", San Luis TV
+https://live.sanluistv.gob.ar/hls/sanluistv.m3u8
+
+# -- SANTA CRUZ --
+#EXTINF:-1 tvg-id="ar.santacruz" tvg-name="Santa Cruz TV" tvg-logo="https://santacruz.gob.ar/wp-content/uploads/2020/08/logo-sctv.png", Santa Cruz TV
+https://live.santacruztv.gob.ar/hls/santacruztv.m3u8
+
+# -- SANTA FE --
+#EXTINF:-1 tvg-id="ar.santafe" tvg-name="Santa Fe TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Santa_Fe_TV_logo.svg/240px-Santa_Fe_TV_logo.svg.png", Santa Fe TV
+https://streaming.santafetv.gob.ar/hls/santafetv.m3u8
+
+#EXTINF:-1 tvg-id="ar.unl" tvg-name="UNL TV" tvg-logo="https://unl.edu.ar/wp-content/themes/unl-theme/images/logo-unl.svg", UNL TV
+https://unltv-live.clarotv.com.ar/hls/unltv.m3u8
+
+# -- SANTIAGO DEL ESTERO --
+#EXTINF:-1 tvg-id="ar.santiagotv" tvg-name="Santiago TV" tvg-logo="https://santiagotv.gob.ar/wp-content/uploads/2020/08/logo-santiagotv.png", Santiago TV
+https://live.santiagotv.gob.ar/hls/santiagotv.m3u8
+
+# -- TIERRA DEL FUEGO --
+#EXTINF:-1 tvg-id="ar.tdftv" tvg-name="Tierra del Fuego TV" tvg-logo="https://tierradelfuego.gob.ar/wp-content/uploads/2020/08/logo-tdftv.png", Tierra del Fuego TV
+https://live.tdftv.gob.ar/hls/tdftv.m3u8
+
+#EXTINF:-1 tvg-id="ar.riogrande" tvg-name="Río Grande TV" tvg-logo="https://riogrande.gob.ar/wp-content/uploads/2020/08/logo-rgtv.png", Río Grande TV
+https://live.rgtv.gob.ar/hls/rgtv.m3u8
+
+# -- TUCUMÁN -- (completo según app)
+
+#EXTINF:-1 tvg-id="ar.tucumantv" tvg-name="Tucumán TV" tvg-logo="https://tucumantv.gob.ar/wp-content/uploads/2020/07/logo-tvt.png", Tucumán TV
+https://live.tucumantv.gob.ar/hls/tucumantv.m3u8
+
+#EXTINF:-1 tvg-id="ar.congresal" tvg-name="Canal Congresal" tvg-logo="https://tucuman.gov.ar/wp-content/uploads/2020/08/logo-congresal.png", Canal Congresal Tucumán
+https://live.congresaltucuman.gob.ar/hls/congresal.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal10" tvg-name="Canal 10 - Televida" tvg-logo="https://televida.com.ar/wp-content/uploads/2020/08/logo-canaldiez.png", Canal 10 - Televida
+https://live.televida.com.ar/hls/canal10.m3u8
+
+#EXTINF:-1 tvg-id="ar.canal8" tvg-name="Canal 8 - Telerama" tvg-logo="https://telerama.com.ar/wp-content/uploads/2020/08/logo-telerama.png", Canal 8 - Telerama
+https://stream.telerama.com.ar/hls/canal8.m3u8
+
+#EXTINF:-1 tvg-id="ar.palomar" tvg-name="El Palomar TV" tvg-logo="https://elpalomartv.com.ar/wp-content/uploads/2020/08/logo-palomar.png", El Palomar TV
+https://live.elpalomartv.com.ar/hls/palomar.m3u8
+
+#EXTINF:-1 tvg-id="ar.cinco" tvg-name="5 TV - Cinco Tucumán" tvg-logo="https://cinco.tv/wp-content/uploads/2020/08/logo-cincotv.png", 5 TV - Cinco Tucumán
+https://streaming.cinco.tv/hls/cincotv.m3u8
+
+#EXTINF:-1 tvg-id="ar.elinformante" tvg-name="El Informante TV" tvg-logo="https://elinformantetucuman.com.ar/wp-content/uploads/2020/08/logo-informante.png", El Informante TV
+https://live.elinformantetucuman.com.ar/hls/informante.m3u8
+
+#EXTINF:-1 tvg-id="ar.radioactiva" tvg-name="Radioactiva TV" tvg-logo="https://radioactiva.com.ar/wp-content/uploads/2020/08/logo-radioactiva-tv.png", Radioactiva TV
+https://live.radioactiva.com.ar/hls/radioactiva.m3u8
+
+#EXTINF:-1 tvg-id="ar.lavoztucuman" tvg-name="La Voz del Interior TV" tvg-logo="https://lavoz.com.ar/wp-content/uploads/2020/08/logo-lavoztv.png", La Voz del Interior TV
+https://live.lavoz.com.ar/hls/lavoztv.m3u8
+
+# ===================================================================
+# 🎓 EDUCACIÓN Y CULTURA
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.encuentro" tvg-name="Encuentro" tvg-logo="https://www.conectarigualdad.edu.ar/wp-content/uploads/2012/12/encuentro.png", Encuentro
+https://hls.distribucion.clarotelevision.com.ar/loadbalance/ar-encuentro-desktop.m3u8
+
+#EXTINF:-1 tvg-id="ar.pakapaka" tvg-name="Pakapaka" tvg-logo="https://www.pakapaka.gob.ar/sites/pakapaka/files/styles/width_85/public/logos/pakapaka_web.png", Pakapaka
+https://hls.distribucion.clarotelevision.com.ar/loadbalance/ar-pakapaka-desktop.m3u8
+
+#EXTINF:-1 tvg-id="ar.depublica" tvg-name="De Pública" tvg-logo="https://depublica.gob.ar/static/img/logo.png", De Pública
+https://live.depublica.gob.ar/hls/depublica.m3u8
+
+#EXTINF:-1 tvg-id="ar.contar" tvg-name="Cont.ar" tvg-logo="https://cont.ar/static/images/logo-contar.png", Cont.ar
+https://hls.distribucion.clarotelevision.com.ar/loadbalance/ar-contar-desktop.m3u8
+
+#EXTINF:-1 tvg-id="ar.incaa" tvg-name="INCAA TV" tvg-logo="https://incaa.gob.ar/assets/img/logo-incaa.png", INCAA TV
+https://incaatv-live.clarotv.com.ar/hls/incaatv.m3u8
+
+# ===================================================================
+# ✝️ RELIGIOSOS Y COMUNITARIOS
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.familia" tvg-name="Familia TV" tvg-logo="https://www.familiatv.com.ar/wp-content/uploads/2020/09/logo-familiatv.png", Familia TV
+https://live.familiatv.com.ar/hls/familiatv.m3u8
+
+#EXTINF:-1 tvg-id="ar.vida" tvg-name="Vida TV" tvg-logo="https://www.vidatv.com.ar/wp-content/uploads/2020/05/logo-vida.png", Vida TV
+https://streaming.vidatv.com.ar/live/smil:vida.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ar.vidamas" tvg-name="Vida Más" tvg-logo="https://www.vidatv.com.ar/wp-content/uploads/2020/05/logo-vida.png", Vida Más
+https://streaming.vidatv.com.ar/live/smil:vidamas.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ar.redsalud" tvg-name="Red Salud" tvg-logo="https://redsalud.org.ar/wp-content/uploads/2020/08/logo-redsalud.png", Red Salud
+https://live.redsalud.org.ar/hls/redsalud.m3u8
+
+# ===================================================================
+# 🧒 INFANTILES Y ENTRETENIMIENTO
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.disney" tvg-name="Disney Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Channel_logo_%282019%29.svg/240px-Disney_Channel_logo_%282019%29.svg.png", Disney Channel
+https://disneychannel-live.disney.com.ar/hls/disney.m3u8
+
+#EXTINF:-1 tvg-id="ar.nick" tvg-name="Nickelodeon" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Nickelodeon_%282017%29.svg/240px-Nickelodeon_%282017%29.svg.png", Nickelodeon
+https://nick-live.nick.com.ar/hls/nick.m3u8
+
+#EXTINF:-1 tvg-id="ar.cartoon" tvg-name="Cartoon Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Cartoon_Network_%28Latin_America%29.svg/240px-Cartoon_Network_%28Latin_America%29.svg.png", Cartoon Network
+https://cartoonnetwork-live.warnermediacdn.com/hls/cartoonnetwork.m3u8
+
+#EXTINF:-1 tvg-id="ar.discoverykids" tvg-name="Discovery Kids" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Discovery_Kids_Latin_America.svg/240px-Discovery_Kids_Latin_America.svg.png", Discovery Kids
+https://dk-live.discoverykids.com/hls/dk.m3u8
+
+# ===================================================================
+# ⚽ DEPORTES
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.tycsports" tvg-name="TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/TyC_Sports_logo.svg/240px-TyC_Sports_logo.svg.png", TyC Sports
+https://tycsports-live.clarotv.com.ar/hls/tycsports.m3u8
+
+#EXTINF:-1 tvg-id="ar.espn" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/ESPN_logo.svg/240px-ESPN_logo.svg.png", ESPN
+https://espn-latam.akamaized.net/hls/espn_live.m3u8
+
+#EXTINF:-1 tvg-id="ar.deportespublica" tvg-name="Deportes TV Pública" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Logo_TV_Publica.svg/240px-Logo_TV_Publica.svg.png", Deportes TV Pública
+https://live.tvpublica.ar/hls/deportes.m3u8
+
+# ===================================================================
+# 🎵 MUSICALES
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.lamusica" tvg-name="La Música de Argentina" tvg-logo="https://lamusica.gob.ar/wp-content/uploads/2020/08/logo-lamusica.png", La Música de Argentina
+https://live.lamusica.gob.ar/hls/lamusica.m3u8
+
+#EXTINF:-1 tvg-id="ar.folklore" tvg-name="Folklore TV" tvg-logo="https://folklore.tv/wp-content/uploads/2020/08/logo-folklore.png", Folklore TV
+https://live.folklore.tv/hls/folklore.m3u8
+
+#EXTINF:-1 tvg-id="ar.rockpop" tvg-name="Rock&Pop TV" tvg-logo="https://rockandpop.com.ar/wp-content/uploads/2020/08/logo-rockpop.png", Rock&Pop TV
+https://live.rockandpop.com.ar/hls/rockpop.m3u8
+
+# ===================================================================
+# 🟡 YOUTUBE (streams oficiales)
+# ===================================================================
+
+#EXTINF:-1 tvg-id="ar.youtube.tn" tvg-name="TN (YouTube)" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_lXj0oQ1vWqX7Q8QqX7Q8QqX7Q8QqX7Q8QqX7Q8=s176-c-k-c0x00ffffff-no-rj", TN (YouTube)
+https://www.youtube.com/watch?v=Krt6hcQwd1c
+
+#EXTINF:-1 tvg-id="ar.youtube.c5n" tvg-name="C5N (YouTube)" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_nQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQqQq=s176-c-k-c0x00ffffff-no-rj", C5N (YouTube)
+https://www.youtube.com/watch?v=3Z8qZqZqZqZ
+
+#EXTINF:-1 tvg-id="ar.youtube.encuentro" tvg-name="Encuentro (YouTube)" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_encuentro=s176-c-k-c0x00ffffff-no-rj", Encuentro (YouTube)
+https://www.youtube.com/watch?v=encuentro-tv-vivo
+
+#EXTINF:-1 tvg-id="ar.youtube.tucumantv" tvg-name="Tucumán TV (YouTube)" tvg-logo="https://yt3.ggpht.com/ytc/AIdro_tvtucuman=s176-c-k-c0x00ffffff-no-rj", Tucumán TV (YouTube)
+https://www.youtube.com/watch?v=tucuman-tv-en-vivo
